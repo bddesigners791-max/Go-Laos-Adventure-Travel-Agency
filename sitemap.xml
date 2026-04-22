@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://golaosadventure.com/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://golaosadventure.com/"/>
+    <xhtml:link rel="alternate" hreflang="my" href="https://golaosadventure.com/?lang=my"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://golaosadventure.com/"/>
+    <image:image>
+      <image:loc>https://golaosadventure.com/images/photos/hot-air-balloon.jpg</image:loc>
+      <image:title>Hot air balloons over Nam Song River, Vang Vieng</image:title>
+      <image:caption>Sunrise hot air balloon flights over Vang Vieng karst mountains — Go Laos Adventure</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://golaosadventure.com/images/photos/pha-that-luang.jpg</image:loc>
+      <image:title>Pha That Luang golden stupa, Vientiane</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://golaosadventure.com/packages.html</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://golaosadventure.com/packages.html"/>
+    <xhtml:link rel="alternate" hreflang="my" href="https://golaosadventure.com/packages.html?lang=my"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://golaosadventure.com/packages.html"/>
+    <image:image>
+      <image:loc>https://golaosadventure.com/images/photos/mountain-view.jpg</image:loc>
+      <image:title>Vang Vieng Mountain Escape package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://golaosadventure.com/images/photos/blue-lagoon-3.jpg</image:loc>
+      <image:title>Vang Vieng Blue Lagoon Getaway package</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://golaosadventure.com/images/photos/kuang-si-waterfall.jpg</image:loc>
+      <image:title>Full Laos Adventure — Kuang Si Waterfall</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://golaosadventure.com/destinations.html</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://golaosadventure.com/destinations.html"/>
+    <xhtml:link rel="alternate" hreflang="my" href="https://golaosadventure.com/destinations.html?lang=my"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://golaosadventure.com/destinations.html"/>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/pha-that-luang.jpg</image:loc><image:title>Pha That Luang</image:title></image:image>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/patuxay-gate.jpg</image:loc><image:title>Patuxay Gate</image:title></image:image>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/vientiane-art-museum.jpg</image:loc><image:title>Vientiane Art Museum</image:title></image:image>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/vientiane-night-market.jpg</image:loc><image:title>Vientiane Night Market</image:title></image:image>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/blue-bridge.jpg</image:loc><image:title>Blue Bridge, Vang Vieng</image:title></image:image>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/blue-lagoon-2.jpg</image:loc><image:title>Blue Lagoon 2</image:title></image:image>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/blue-lagoon-3.jpg</image:loc><image:title>Blue Lagoon 3</image:title></image:image>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/jang-cave.jpg</image:loc><image:title>Jang Cave</image:title></image:image>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/mountain-view.jpg</image:loc><image:title>Nam Xay Viewpoint</image:title></image:image>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/hot-air-balloon.jpg</image:loc><image:title>Vang Vieng Hot Air Balloon</image:title></image:image>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/kuang-si-waterfall.jpg</image:loc><image:title>Kuang Si Waterfall</image:title></image:image>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/royal-palace-museum.jpg</image:loc><image:title>Royal Palace Museum, Luang Prabang</image:title></image:image>
+    <image:image><image:loc>https://golaosadventure.com/images/photos/luang-prabang-night-market.jpg</image:loc><image:title>Luang Prabang Night Market</image:title></image:image>
+  </url>
+
+  <url>
+    <loc>https://golaosadventure.com/about.html</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://golaosadventure.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="my" href="https://golaosadventure.com/about.html?lang=my"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://golaosadventure.com/about.html"/>
+  </url>
+
+  <url>
+    <loc>https://golaosadventure.com/contact.html</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://golaosadventure.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="my" href="https://golaosadventure.com/contact.html?lang=my"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://golaosadventure.com/contact.html"/>
+  </url>
+
+</urlset>

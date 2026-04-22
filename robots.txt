@@ -1,0 +1,23 @@
+# robots.txt for Go Laos Adventure
+# https://golaosadventure.com/
+
+User-agent: *
+Allow: /
+
+# Block common non-content paths (none currently, reserved for future)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$
+
+# Allow image crawlers full access
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap
+Sitemap: https://golaosadventure.com/sitemap.xml
+
+# Host directive (preferred canonical host)
+Host: golaosadventure.com
